@@ -16,7 +16,6 @@ public class Biletomat {
 	
 	public static void main(String[] args) {
 		
-		Biletomat b = new Biletomat();
 		
 
 	}
